@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91738\\space\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|c:\\users\\91738\\space\\assets\\scenes\\script\\missilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\missilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|C:\\Users\\91738\\space\\assets\\scenes\\script\\storwe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\storwe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|C:\\Users\\91738\\space\\assets\\scenes\\script\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|C:\\Users\\91738\\space\\assets\\scenes\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|C:\\Users\\91738\\space\\assets\\scenes\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissileCon.cs",
+              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\MissileCon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\MissileCon.cs",
+              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\MissileCon.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Script\\MissileCon.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:09:02.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Script\\EnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:42:54.137Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Storwe.cs",
+              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\Storwe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\Storwe.cs",
+              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\Storwe.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Script\\Storwe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:09:40.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\Gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\Gamemanager.cs",
+              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\Gamemanager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Script\\Gamemanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:40:50.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControler.cs",
+              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\PlayerControler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\PlayerControler.cs",
+              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\PlayerControler.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Script\\PlayerControler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:25:51.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
