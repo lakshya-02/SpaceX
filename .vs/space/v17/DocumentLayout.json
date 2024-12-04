@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\91738\\space\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91738\\space\\Assets\\Audiom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Audiom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|C:\\Users\\91738\\space\\assets\\scenes\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|C:\\Users\\91738\\space\\assets\\scenes\\script\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\playercontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|C:\\Users\\91738\\space\\assets\\scenes\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|c:\\users\\91738\\space\\assets\\scenes\\script\\missilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F87286E-929D-B1A2-F27D-429B397C7F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\script\\missilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91738\\space\\Assets\\Script\\Gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\EnemyController.cs",
-              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Script\\EnemyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Gamemanager.cs",
+              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Script\\Gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Gamemanager.cs",
+              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Script\\Gamemanager.cs",
+              "RelativeToolTip": "Assets\\Script\\Gamemanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T16:42:54.137Z",
+              "WhenOpened": "2024-11-12T16:36:30.46Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Audiom.cs",
-              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Audiom.cs",
-              "RelativeDocumentMoniker": "Assets\\Audiom.cs",
-              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Audiom.cs",
-              "RelativeToolTip": "Assets\\Audiom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T00:17:41.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MissileCon.cs",
-              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\MissileCon.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\MissileCon.cs",
-              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\MissileCon.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Script\\MissileCon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T22:34:08.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Gamemanager.cs",
-              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\Gamemanager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\Gamemanager.cs",
-              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\Gamemanager.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Script\\Gamemanager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T15:40:50.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerControler.cs",
-              "DocumentMoniker": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\PlayerControler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Script\\PlayerControler.cs",
-              "ToolTip": "C:\\Users\\91738\\space\\Assets\\Scenes\\Script\\PlayerControler.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Script\\PlayerControler.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwD4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T18:25:51.779Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
