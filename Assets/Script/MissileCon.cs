@@ -75,5 +75,11 @@ public class MissileCon : MonoBehaviour
             Destroy(this.gameObject);
             Destroy(collision.gameObject);
         }
+        // Ignore collision with the heart
+        if (collision.gameObject.CompareTag("Heart"))
+        {
+            Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>());
+            return;
+        }
     }
 }
