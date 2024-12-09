@@ -50,6 +50,10 @@ public class Bazooka : MonoBehaviour
             {
                 currentMissileSpeed = baseMissileSpeed + 2f;
             }
+            else if (score <= 300)
+            {
+                currentMissileSpeed = baseMissileSpeed + 3f;
+            }
             else
             {
                 currentMissileSpeed = baseMissileSpeed + 4f;
