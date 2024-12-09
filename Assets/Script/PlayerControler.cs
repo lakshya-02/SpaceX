@@ -98,5 +98,10 @@ public class PlayerController : MonoBehaviour
             transform.position = new Vector3(0, -4f, 0); // Reset player position after taking damage
             Destroy(collision.gameObject);
         }
+        if (collision.gameObject.CompareTag("Heart"))
+        {
+            GameManager.instance.RestoreHealth();
+            Destroy(collision.gameObject);
+        }
     }
 }
